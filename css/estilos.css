@@ -1,0 +1,29 @@
+nav a:hover{
+    text-decoration: underline;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.fondo_oscuro {
+    background-color: #212529;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+footer p {
+    color: #dee2e6;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.form-signin {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
